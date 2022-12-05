@@ -1,0 +1,47 @@
+.div-Carcard {
+    height: 1300px;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-card {
+    background-color: white;
+    height: 300px;
+    width: 280px;
+    margin-left: 10px;
+    margin-top: 3px;
+    border: 1px gray solid;
+}
+
+.img-cardcar {
+    height: 50%;
+    width: 100%;
+}
+
+.h6-carcard {
+    font-size: medium;
+    font-family: sans-serif;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.h4-price {
+    margin-left: 5px;
+}
+
+.h5-text {
+    font-weight: 400;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.button-cardcar {
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 30px;
+    width: 50%;
+    background-color: green;
+    border: 1px green solid;
+    color: white;
+}

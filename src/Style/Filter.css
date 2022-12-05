@@ -1,0 +1,61 @@
+ .div-filter {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 10px;
+ }
+
+ .container-filter {
+    background-color: white;
+    height: 100px;
+    width: 80%;
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    margin-bottom: 30px;
+ }
+
+ .content-filter {
+    height: 100px;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+ }
+
+ .div-button-filter {
+    height: 100px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .input-filter {
+    height: 32px;
+    background-color: white;
+ }
+
+ .label-filter {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 10px;
+    color: rgb(154, 153, 153);
+ }
+
+ .select-filter {
+    height: 35px;
+ }
+
+ .button-filter {
+    padding: 5px;
+    width: 50%;
+    height: 30px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    border: 1px green solid;
+    cursor: pointer;
+ }

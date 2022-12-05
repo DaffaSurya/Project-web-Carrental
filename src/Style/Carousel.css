@@ -1,0 +1,93 @@
+.div-carousel {
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.container-carousel {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.content-carousel {
+   width: 520px;
+   height: 100%;
+   background-color:#F1F3FF;
+   display: flex;
+}
+
+.content-carousel1 {
+    width: 300px;
+    height: 100%;
+    background-color: #F1F3FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-carousel1 {
+    height: 20px;
+}
+
+.review-carousel1 {
+  height: 120px;
+}
+
+.profile-carousel {
+    height: 100%;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.review-carousel {
+    height: 100%;
+    width: 680px;
+    display: flex;
+    align-items: center;
+}
+
+.review-result {
+   height: 130px;
+   width: 100%;
+}
+
+.image-carousel {
+    width: 85px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.profile {
+    width: 85px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.logo-carousel {
+    height: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.Star {
+    width: 20px;
+    height: 20px;
+}
+
+.p-review {
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+.text-review {
+    font: arial;
+    height: 14px;
+    font-weight: 400;
+}
+
