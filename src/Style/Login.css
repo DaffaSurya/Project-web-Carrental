@@ -1,0 +1,126 @@
+.div-login {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.login-content1 {
+     height: 100vh;
+     width: 50%;
+}
+
+.login-content2 {
+    height: 100vh;
+    width: 50%;
+    background-color: #0d28a6;
+    position: relative;
+}
+
+.p-img-login {
+    font-size: 48px;
+    margin-top: 112px;
+    margin-left: 115px;
+    opacity: 70%;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 72px;
+}
+
+.img-content2 {
+    position: absolute;
+    width: 568px;
+    height: 420px;
+    left: 115px;
+    top: 233px;
+}
+
+.p-logincontent1 {
+    width: 100px;
+    height: 34px;
+    background-color: #cfd4ed;
+    margin-left: 175px;
+    margin-top: 200px;
+}
+
+.p-content1 {
+    width: 178px;
+    height: 36px;
+    top: 300px;
+    margin-left: 175px;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.email-login {
+    top: 380.07px;
+    margin-left: 175px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 29px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+.input-email-login {
+    width: 370px;
+    height: 38.25px;
+    top: 437px;
+    margin-left: 175px;
+    margin-top: 7px;
+    border: #000000 1px 10%;
+}
+
+.password-login{
+    width: 51px;
+    height: 20px;
+    top: 491.25px;
+    margin-left: 175px;
+    margin-top: 5px;
+}
+
+.input-password-login {
+    width: 370px;
+    height: 38.25px;
+    border: #000000 1px 10%;
+    margin-left: 175px;
+    margin-top: 7px;
+}
+
+.button-login {
+   width: 370px;
+   height: 36px;
+   margin-left: 175px;
+   margin-top: 15px;
+   border-radius: 2px;
+   background-color: #0d28a6;
+   color: white;
+}
+
+.div-p-login {
+     display: flex;
+     margin-top: 20px;
+     margin-left: 200px;
+}
+
+.p-signup {
+   color: #0d28a6;
+   font-weight: 700;
+   font-size: 14px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.div-error {
+  margin-left: 175px;
+  margin-top: 20px;
+  width: 350px;
+  height: 30px;
+  background-color: rgb(212, 96, 96);
+  padding: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

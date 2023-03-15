@@ -5,7 +5,7 @@ const Filter= (props) => {
            <div className="container-filter">
              <div className="content-filter">
               <label className="label-filter">Cari mobil</label>
-              <input type={Text} placeholder="Ketik nama/cari mobil" className="input-filter"
+              <input type={"text"} placeholder="Ketik nama/cari mobil" className="input-filter"
               onChange={props.namefilter}/>
              </div>
 

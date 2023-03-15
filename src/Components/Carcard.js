@@ -19,14 +19,14 @@ const Carcard = (props) => {
                     </h5>
                     <div>
                     <Link to={`/Cardetail/${item.id}`}>
-                    <button className="button-cardcar">cari mobil</button>
+                    <button className="button-cardcar">Pilih Mobil</button>
                     </Link>
                     </div>
                    </div>
                 )
             })
          ): (
-            <p>gagal</p>
+            <h2>Loading...</h2>
          )}
         </div>
     );

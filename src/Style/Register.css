@@ -1,0 +1,125 @@
+.div-register {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.regis-content1 {
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.regis-content2 {
+    height: 100vh;
+    width: 50%;
+    background-color: #0d28a6;
+    position: relative;
+}
+
+.p-regiscontent {
+  width: 100px;
+  height: 34px;
+  background-color: #cfd4ed;
+}
+
+.p-titlecontent {
+    margin-top: 25px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 99px;
+    height: 36px;
+}
+
+.p-nameregis {
+    font-size: 14px;
+    font-weight: 400;
+    width: 36px;
+    height: 20px;
+    margin-top: 15px;
+}
+
+.input-nameregis {
+    width: 370px;
+    height: 38.15px;
+    margin-top: 13px;
+    border-radius: 5px;
+    border: 1px #000000 10%;
+}
+
+.p-Emailregis {
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    width: 36px;
+    height: 20px;
+}
+
+.input-Emailregis {
+    width: 370px;
+    height: 38.15px;
+    margin-top: 13px;
+    border-radius: 5px;
+    border: 1px #000000 10%;
+
+}
+
+.p-Pasregis {
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    width: 93px;
+    height: 23px;
+}
+
+.input-Pasregis {
+    width: 370px;
+    height: 38.15px;
+    margin-top: 7px;
+    border-radius: 5px;
+    border: 1px #000000 10%;
+}
+
+.regis-button {
+    width: 370px;
+    height: 36px;
+    margin-top: 14px;
+    background-color: #0D28A6;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-p-signIn {
+    display: flex;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.SignIn {
+    font-weight: 700;
+    font-size: 14px;
+    color: #0D28A6;
+    margin-left: 10px;
+}
+
+.div-notiferror {
+    margin-top: 20px;
+    width: 350px;
+    height: 30px;
+    background-color: rgb(212, 96, 96);
+    padding: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+
+
+

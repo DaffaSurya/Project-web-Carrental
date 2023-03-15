@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../Style/Footer.css"
 const Footer = () => {
     return (
@@ -15,7 +16,9 @@ const Footer = () => {
              </p>
              </div>
              <div className="content-footer">
+             <Link to={"/"}>
              <p className="p-text">Our services</p>
+             </Link>
              <p className="p-text">why us</p>
              <p className="p-text">Testimonial</p>
              <p className="p-text">FAQ</p>

@@ -80,6 +80,41 @@
     .li-navbar {
         font-family: sans-serif;
         font-size: medium;
+        margin-top: 10px;
+    }
+
+    .button-register {
+        padding: 8px 12px 8px 12px;
+        border-radius: 2px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        background-color: #5cb85f;
+        color: #F1F3FF;
+        cursor: pointer;
+        border: 1px  #5cb85f solid;
+    }
+    
+    .profile-navbar {
+        display: flex;
+        width: 200px;
+        height: 27px;
+        background-color: #5cb85f;
+        justify-content: center;
+        gap: 7px;
+        padding: 4px;
+        border-radius: 6px;
+    }
+
+    .p-profile {
+        margin-top: 4px;
+        font-family: sans-serif;
+        color: whitesmoke;
+    }
+
+    .Link-li {
+        text-decoration: none;
+        color: black;
     }
 }
 
